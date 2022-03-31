@@ -1,0 +1,17 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.flex-container{
+    background-color: rgb(212, 166, 123);
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+.flex-item{
+    height: 100px;
+    padding: 50px;
+    background-color: orangered;
+    margin-left: 10px;
+}
